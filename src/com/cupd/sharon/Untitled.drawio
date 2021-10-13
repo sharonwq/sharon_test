@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T08:03:22.826Z" agent="5.0 (Windows)" etag="1N-E2p8uUDx236YQcyLs" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-13T08:07:09.131Z" agent="5.0 (Windows)" etag="0vkY7B8ydik6OwG6Zzet" version="15.5.2" type="github">
   <diagram id="Vmgq69G5zivHSpTC17q_" name="Page-1">
     <mxGraphModel dx="782" dy="352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,8 +6,8 @@
         <mxCell id="1" parent="0" />
         <mxCell id="4fzQf8-RqGM_sW67UMcs-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="80" as="sourcePoint" />
-            <mxPoint x="800" y="80" as="targetPoint" />
+            <mxPoint x="20" y="80" as="sourcePoint" />
+            <mxPoint x="810" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -44,19 +44,19 @@
           <mxGeometry x="60" y="50" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-8" value="审批系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="50" width="60" height="20" as="geometry" />
+          <mxGeometry x="200" y="50" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-9" value="开发部门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="50" width="60" height="20" as="geometry" />
+          <mxGeometry x="350" y="50" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-10" value="其他部门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="50" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4fzQf8-RqGM_sW67UMcs-11" value="公司领导" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="580" y="50" width="60" height="20" as="geometry" />
+        <mxCell id="4fzQf8-RqGM_sW67UMcs-11" value="公司分管领导" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="50" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-12" value="运营部门" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="700" y="50" width="60" height="20" as="geometry" />
+          <mxGeometry x="710" y="50" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fzQf8-RqGM_sW67UMcs-13" target="4fzQf8-RqGM_sW67UMcs-14">
           <mxGeometry relative="1" as="geometry" />
@@ -97,7 +97,7 @@
         <mxCell id="4fzQf8-RqGM_sW67UMcs-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fzQf8-RqGM_sW67UMcs-27" target="4fzQf8-RqGM_sW67UMcs-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fzQf8-RqGM_sW67UMcs-27" value="运维" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fzQf8-RqGM_sW67UMcs-27" value="运维主管审核" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="337.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fzQf8-RqGM_sW67UMcs-29" target="4fzQf8-RqGM_sW67UMcs-31">
@@ -248,7 +248,7 @@
         <mxCell id="4fzQf8-RqGM_sW67UMcs-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4fzQf8-RqGM_sW67UMcs-67" target="4fzQf8-RqGM_sW67UMcs-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fzQf8-RqGM_sW67UMcs-67" value="确认修改时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4fzQf8-RqGM_sW67UMcs-67" value="确认发布时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-69" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -258,7 +258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-70" value="生成发布工单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="710" y="540" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4fzQf8-RqGM_sW67UMcs-72" value="部署平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="860" width="120" height="40" as="geometry" />
